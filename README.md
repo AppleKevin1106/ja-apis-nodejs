@@ -1,4 +1,4 @@
-**This project is no longer active developement, please see [CoolQLCool](https://www.github.com/dinubs/coolqlcool) for a similar more active project ([ref](https://github.com/dinubs/jam-api/issues/24))**
+**This project is no longer active developement, please see [CoolQLCool](https://www.github.com/AppleKevin1106/ja-apis-nodejs) for a similar more active project ([ref]
 
 Using API you can simply generate JSON data from any website.
 
